@@ -1,16 +1,5 @@
 # Parallel Machine Learning with scikit-learn and IPython
 
-
-[![Video Tutorial](https://raw.github.com/ogrisel/parallel_ml_tutorial/master/resources/youtube_screenshot.png)](https://www.youtube.com/watch?v=iFkRt3BCctg)
-
-Video recording of this tutorial given at PyCon in 2013. The tutorial material
-has been rearranged in part and extended. Look at the title of the of the
-notebooks to be able to follow along the presentation.
-
-Browse the static [notebooks on nbviewer.ipython.org](
-http://nbviewer.ipython.org/github/ogrisel/parallel_ml_tutorial/tree/master/rendered_notebooks/).
-
-
 ## Scope of this tutorial:
 
 - Learn common machine learning concepts and how they match the scikit-learn
@@ -99,16 +88,4 @@ watch the output display directly under the cell and the cursor move on to the
 next cell. Go to the "Help" menu for links to the notebook tutorial.
 
 
-Credits
-=======
-
-Some of this material is adapted from the scipy 2013 tutorial:
-
-    http://github.com/jakevdp/sklearn_scipy2013
-
-Original authors:
-
-- Gael Varoquaux [@GaelVaroquaux](https://twitter.com/GaelVaroquaux) | http://gael-varoquaux.info
-- Jake VanderPlas [@jakevdp](https://twitter.com/jakevdp) | http://jakevdp.github.com
-- Olivier Grisel [@ogrisel](https://twitter.com/ogrisel) | http://ogrisel.com
 
